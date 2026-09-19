@@ -1,0 +1,6 @@
+{
+  "name": "Nelth-IA Watermark Inpainter",
+  "description": "Upload image, detect watermark zones, generate precise OpenCV masks, execute Telea inpainting, and export clean PNG/JPEG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
